@@ -1,4 +1,0 @@
-﻿  glm.cpp
-c:\users\lenovo\documents\visual studio 2017\projects\assignment\assignment\glm.cpp(1499): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'GLfloat *'
-  Assignment.vcxproj -> C:\Users\lenovo\Documents\Visual Studio 2017\Projects\Assignment\Debug\Assignment.exe
-  Assignment.vcxproj -> C:\Users\lenovo\Documents\Visual Studio 2017\Projects\Assignment\Debug\Assignment.pdb (Partial PDB)
